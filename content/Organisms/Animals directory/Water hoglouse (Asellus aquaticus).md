@@ -1,0 +1,3 @@
+![650](c921d8e0355c6ce1d875384e7bb06ccf.png)
+
+Water hoglouses in ecospheres are similar to amphipods in diet and ecological function, but are much less voracious and do not usually eat live animals. They can be found mainly in ponds compared to amphipods which can also be commonly found in rivers. They are often found on pieces of wood submerged in ponds. They graze biofilm and eat dead plant matter and other detritus. They are great for your ecosphere and are very interesting to observe. I would choose these over amphipods due to the fact that they are more hardy. However, both isopods and amphipods can be used together but I would only consider this for larger ecospheres.

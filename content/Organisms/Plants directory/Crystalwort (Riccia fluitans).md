@@ -1,0 +1,3 @@
+![650](9f3bbae5d2695a0eca78b3a9a28aec9b.png)
+
+This is an extremely unique looking plant, tends to float but can be tied to sticks or rocks to prevent this. It has a very fast growth rate. This plant is a personal favourite of mine and I consider it to be among the best plants for aquatic ecospheres. Its surface growth allows it to access atmospheric CO2 which gives it an advantage against other plants.

@@ -1,0 +1,3 @@
+![650](da7362c54311cc6cf8da8c706322a271.png)
+
+Ostracods, also known as seed shrimp, are another essential crustation to have in your ecosphere. They can often be found near the bottom of your ecosphere scavenging for food. They feed on a wide variety of things like copepods, however ostracods tend to eat more detritus than copepods, and cannot be eaten by hydra due to their shell. They are often found in most aquatic substrates, so most ecospheres should have them present. If not, I highly recommend adding them.

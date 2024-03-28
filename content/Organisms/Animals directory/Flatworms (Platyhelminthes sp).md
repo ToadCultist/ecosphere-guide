@@ -1,0 +1,3 @@
+![650](5617f84f505c5a20169a9836b375841e.png)
+
+Flatworms can work in ecospheres. However, they can cause problems in new ecospheres because some types are predatory (planaria) and can kill off populations of organisms before they have established themselves, so it’s best to add these into more established ecospheres. Other species however eat plants and detritus (rhabdocoela) and are very beneficial to your ecosphere. I have seen both types do very well in ecospheres. They can be seen most commonly at night which is when they feed. They are characterised by their flat appearance, often with two dots on the head which look like eyes. They slither around like slugs. It is important not to confuse them with leeches which are a pest.

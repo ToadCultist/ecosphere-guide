@@ -1,0 +1,3 @@
+![650](b9e65aa517a43f4175199b713c530f7a.png)
+
+Although I do not have any experience with this plant I have been told that this is quite similar to the water lettuce. It has a red colour and grows smaller. Add this to your ecosphere if you want there to be more colour (the roots are also red). This plant may do better than water lettuce due to the fact that it is considerably smaller. I would choose this over water lettuce.

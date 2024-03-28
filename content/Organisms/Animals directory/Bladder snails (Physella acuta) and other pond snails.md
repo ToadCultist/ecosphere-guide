@@ -1,0 +1,5 @@
+![650](dadde2988ab196bc121b416f532f5df0.png)
+
+Bladder snails are probably one of the most common pond snails you can find in an ecosphere. You can find these in just about any water source and they do great in ecospheres. I would personally prefer bladder snails over any other common pond snail species (Lymnaea sp) because they tend not to eat the plants. These snails can be used in combination with other snails on this list. Another good pond snail that can be used is the wandering snail, they are similar to bladder snails but tend to eat more plant matter than bladder snails.
+
+_It is better to put in smaller individuals when making an ecosphere as they will not grow as large in an ecosphere. In addition, if a larger one were to die it could cause a crash. This is also true for every mollusc on this list._

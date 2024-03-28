@@ -1,0 +1,5 @@
+![650](8507e26169d0c6008a098a898496eea7.png)
+
+Duckweed is something I highly recommend using when making an ecosphere. Not only does it usually contain a large amount of organisms, but it is also a great plant for filtering out chemicals in water. There are multiple types of duckweed you can use. I personally prefer the Wolffia variety but any of the species will do fine. Organisms tend to feed on the hanging roots of the larger types, which can kill it off. Woliffia does not have roots, so it does not suffer from this problem.
+
+On the other hand, there tends to be more organisms hiding in the larger types. It is completely up to you which type you choose. As an ecosphere matures and other plants begin to grow, the duckweed in your ecosphere may begin to die off. If this happens to you there is probably nothing you can do about it and providing that you have other plants thriving in your ecosphere it is not going to do much harm.

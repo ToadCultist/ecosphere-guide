@@ -1,0 +1,3 @@
+![650](a941dfdb1ff633cc52ec884e2909d611.png)
+
+One of the best plants I've ever come across for the use of ecospheres, has an extremely fast growth rate and is an oxygenating powerhouse. Can work very well with other plants and is great for keeping algae blooms at bay. This is by far the superior plant for any ecosphere and I think it looks stunning. An extremely similar alternative to this plant is Waterthyme (Hydrilla verticillata).
