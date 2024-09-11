@@ -3,7 +3,7 @@ title: Home
 ---
 ![650](5ae6a00e0a0b57f02c1f59c67024de70.jpg)
 
-Welcome to the enclosed ecology knowledge base!  
+Welcome to the enclosed ecology knowledge base!  TEST
 This project is aimed at documenting everything I know about ecospheres through my own experiments, research and knowledge of others. I hope you find this place useful!  
 
 If you are interested in contributing to this project or just have an interest in ecospheres in general, [join our discord server!](https://discord.gg/VUkMhjbcDV)
