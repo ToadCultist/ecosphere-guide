@@ -627,3 +627,7 @@ settings:
 .img-adj-list :is(ul, ol) {
   display: flow-root;
 }
+
+iframe.pdf {
+  width: 100%;
+}
