@@ -632,3 +632,7 @@ iframe.pdf {
   width: 100% !important;
   max-width: 100% !important;
 }
+
+.page {
+  max-width: 1500px; //default, determines the total width (left + center + right) in desktop view.
+}
