@@ -634,5 +634,10 @@ iframe.pdf {
 }
 
 .page {
-  max-width: 1500px; //default, determines the total width (left + center + right) in desktop view.
+  max-width: 1180px; //default, determines the total width (left + center + right) in desktop view.
+}
+
+.sidebar.right {
+  width: 0 !important;
+  max-width: 0 !important;
 }
