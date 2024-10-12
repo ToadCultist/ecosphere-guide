@@ -1,5 +1,6 @@
-![center|sban](016e0ae89392a9982a82462942bb9547.png)
 When making an ecosphere, the first thing you should think about is the jar. It is the most important part of your ecosphere because it contains all the various organisms in your system. I don’t recommend using plastic containers as chemicals can leach into the water. Also they tend to heat up quicker when in direct sunlight, which can cause the death of your ecosphere. For best results, I suggest using a minimum of 2L (aprox 0.528344 US Gal) but any sized jar can be used with success. I just recommend a 2L minimum because it allows for there to be a higher level of biodiversity in animals as well as plants.
+
+![center|sban](016e0ae89392a9982a82462942bb9547.png)
 
 Jars that have a clip and rubber seal are best as they can be commonly found in the correct sizes and have a really good seal. Another great type of jar is the demijohn jar. They can have much larger capacities and have a great seal. The only drawback is that they have smaller entrances, meaning it may be harder to put plants or rocks in. Don’t let that discourage you though because in my opinion they are worth the effort. 
 

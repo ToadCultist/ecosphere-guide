@@ -1,3 +1,3 @@
-![650](50356a00a8e9b5e553b59f49233d6b36.png)
+![center|sban](50356a00a8e9b5e553b59f49233d6b36.png)
 
 Vallisneria Spriralis is one of the best plants for ecospheres in the Vallisneria genus. It is a great oxygenator that provides a lot of surface area for molluscs and other organisms to graze biofilm from its surface. Its leaves have a slight twist to them which makes them look great. However, this plant can grow tall, so I would use this in a taller ecosphere to give it the room it needs to grow. A smaller alternative to this plant is Awl-leaf arrowhead (Sagittaria subulata).

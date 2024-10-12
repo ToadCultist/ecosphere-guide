@@ -1,3 +1,3 @@
-![650](f3e7a0d79c0b1d84b13a0f3661531939.png)
+![center|sban](f3e7a0d79c0b1d84b13a0f3661531939.png)
 
 This plant has a particularly high rate of photosynthesis, coupled with its fast growth rate and tolerance for low lighting conditions it is objectively one of best plants which can be used for ecospheres. The plant can be consumed by some species of mollusk such as Wandering snails however this seems to be mainly exclusive to new growth. This plant also seems to be resistant to algal blooms.

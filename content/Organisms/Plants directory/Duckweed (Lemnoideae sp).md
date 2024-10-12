@@ -1,4 +1,4 @@
-![650](8507e26169d0c6008a098a898496eea7.png)
+![center|sban](8507e26169d0c6008a098a898496eea7.png)
 
 Duckweed is something I highly recommend using when making an ecosphere. Not only does it usually contain a large amount of organisms, but it is also a great plant for filtering out chemicals in water. There are multiple types of duckweed you can use. I personally prefer the Wolffia variety but any of the species will do fine. Organisms tend to feed on the hanging roots of the larger types, which can kill it off. Woliffia does not have roots, so it does not suffer from this problem.
 

@@ -11,7 +11,7 @@ The first step is to add the sediment to your container, you can assemble your e
 You should only add roughly 4cm (1.5″) of sediment, use a little less for smaller jars and a little more for larger jars, it really depends on the shape of the jar, but you can usually tell by eye when it's at a good level,  
 **do be careful however to not use too much, that is a mistake that many beginners make!**
 
-![650](cd59971d98b9837eaf37bf5157fff0ed.png)
+![center|sban](cd59971d98b9837eaf37bf5157fff0ed.png)
 
 The next step is to add your plants, you can use native plants like short water reeds which grow half immersed in both rivers and ponds. If you can’t find any native plants, you can buy them. I don’t recommend adding sticks or allowing for there to be an excess of leaves, as when they break down they will release a lot of nutrients, which can poison the organisms and cause a crash. When planting, most stem plants can be pushed into the wet sediment with tweezers, Floating plants should be added after adding the water. If using stem plant be sure to push them down to the bottom of the sediment as trying to push them back into the ground once submerged is a nightmare!
 

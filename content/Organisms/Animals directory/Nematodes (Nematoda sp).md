@@ -1,3 +1,3 @@
-![650](99411615d07cd2216d0ec71393195065.png)
+![center|sban](99411615d07cd2216d0ec71393195065.png)
 
 Nematodes are tiny colourless worms preyed upon by amphipods and planarians. There is no need to specifically try to capture them as they will probably just be in your ecosphere. There are many different types of nematode, so expect to see many variants depending on where you catch them and where you live. They are mostly harmless to plants and other animals and beneficial for your ecosystem.

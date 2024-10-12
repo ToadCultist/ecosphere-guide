@@ -1,4 +1,4 @@
-![650](1c9299d48a8a4a8617bf3e1bfdb27063.png)
+![center|sban](1c9299d48a8a4a8617bf3e1bfdb27063.png)
 
 In small amounts algae is very beneficial as it’s a brilliant food source for just about everything in the ecosphere and is present in almost all natural water bodies. However, when it blooms it can ruin an ecosphere. With enough mass, it can outcompete almost any plant and will completely fill your jar. At night it will absorb oxygen, using the process of respiration, which will kill off a lot of  organisms. This reduces biodiversity and upsets the food web. On top of this, when algae blooms die off, a large amount of bacteria is needed to decompose the dead algae, which further uses up oxygen and thus kills even more organisms. Another algae like organism, known as cyanobacteria which is characterized by a vivid blue-green film does this process to an even greater degree and should be removed immediately if identified. (It is important to not that cyanobacteria is not an algae but a type of bacteria. I have however decided to include it here as it fulfills a similar ecological role to algae.)
 

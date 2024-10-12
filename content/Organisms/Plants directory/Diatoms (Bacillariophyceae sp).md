@@ -1,4 +1,4 @@
-![650](2c74792ef14c87340494b0bac1fa7a4e.png)
+![center|sban](2c74792ef14c87340494b0bac1fa7a4e.png)
 
 Yes, I know these are not technically plants, but I have chosen to include them here because they fulfil the same role as plants in an ecosystem. They appear commonly in ecospheres as a brown coating on the glass, but don’t worry, they will eventually go away on their own!
 

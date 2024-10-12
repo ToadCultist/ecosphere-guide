@@ -1,3 +1,3 @@
-![650](6e4f45750497ab4351e85967a988a415.png)
+![center|sban](6e4f45750497ab4351e85967a988a415.png)
 
 Water mites are found in most freshwater habitats but mostly live in stagnant water. They are more rare than other species on this list, as they are sensitive to high pollution levels. They are similar to nematodes in which they are usually harmless and are either in an ecosphere or not. They do not really pose a threat unless it is a rare case in which it is a parasitic species. They can be a variety of different colours.

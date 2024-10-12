@@ -4,7 +4,7 @@ After you’ve made your ecosphere, it is best to keep it open for the first wee
 
 You can keep your ecosphere illuminated with a white LED lamp or you can use natural sunlight from a window. It is best to avoid direct sunlight. I put my ecospheres on a frosted glass window as it diffuses the light (you can buy a frosted glass film to put on your window and it’s pretty cheap).  Unfiltered sunlight can cause algae blooms, which are harmful. It can also overheat your ecosphere and this will kill everything. For best results, I would recommend using the LED lamp.
 
-![](fca10bd690989d998f390dcd6cd16231.png)
+![center|sban](fca10bd690989d998f390dcd6cd16231.png)
 
 ==It is important to note that natural sunlight provides a greater growth potential than LEDs and is therefore technically better, however due to the extreme changes in light intensity your ecospheres will experience throughout the year I prefer the use of LED lamps as they keep conditions much more stable==
 

@@ -1,3 +1,3 @@
-![650](84bfc0888a4cf39de9e0bb196cfbfc4b.png)
+![center|sban](84bfc0888a4cf39de9e0bb196cfbfc4b.png)
 
 Often confused with Rotala Rotundifolia, this plant is by far one of my favourite plants of all time. It looks pretty and is really hardy. Organisms often graze on the biofilm which builds up on the leaves. Organisms tend to only feed on this plant’s dying parts. In my experience, this plant does not grow too densely, meaning it can be left to completely fill your ecosphere with an amazing end result. It is also a good oxygenating plant and I have seen this outcompete algae. I highly recommend using this plant and its ‘bonsai’ variety.

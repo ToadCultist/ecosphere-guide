@@ -1,3 +1,3 @@
-![650](0dc4379b126f31f807f66f9a4f1761f5.png)
+![center|sban](0dc4379b126f31f807f66f9a4f1761f5.png)
 
 These snails are incredibly small and vary in colour. I have had the most success with these snails out of any of the molluscs on this list. They are invasive and found almost everywhere. These snails can be found burrowed in the substrate and on pieces of wood submerged in a pond. I would suggest using these snails as they can maintain a large population without affecting the ecosphere negatively.

@@ -1,3 +1,3 @@
-![650](8f70408a734e46e3be483efc9be087a2.png)
+![center|sban](8f70408a734e46e3be483efc9be087a2.png)
 
 These worms can be seen flailing about at the top of the substrate. This "Dance'' is performed by the worms in order to circulate as much water through their skin as possible to collect oxygen. This dance can be an indicator that there is not enough oxygen in some cases so the less you see them the better. Most ecospheres will have a large population of these living in the substrate. Planarians and occasionally amphipods feed on these organisms. They are found in almost all ponds or river substrate, so there is no need to manually add these.
