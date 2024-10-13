@@ -2,6 +2,7 @@
 .gitignore
 node_modules
 public
+workspace.json
 prof
 tsconfig.tsbuildinfo
 .quartz-cache
