@@ -6,8 +6,8 @@
   "templates": [
     {
       "name": "Default",
-      "templateString": "{intro}\n\n{url}",
-      "createNote": true,
+      "templateString": "[{title}]({url})",
+      "createNote": false,
       "customPath": "Miscellaneous/Data/Definitions"
     }
   ],

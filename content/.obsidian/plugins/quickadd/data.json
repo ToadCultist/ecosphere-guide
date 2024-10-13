@@ -54,7 +54,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "Miscellaneous/Data/Templates",
+  "templateFolderPath": "X_hidden/Templates",
   "announceUpdates": true,
   "version": "1.8.1",
   "disableOnlineFeatures": false,
