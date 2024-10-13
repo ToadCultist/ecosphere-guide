@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "34220d3b5f2d49d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0ca8c2856e2399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebef0cb688e7b78e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9621da3135580b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd9cfb9a97a1fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd507d8a90ab687f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71f168f3faeca225",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5654df3e62a3af8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "79eb78ab85985b76",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "9a3e9f4fe77258ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3fa7c6839663ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4afd9ce6e48fc188",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df5718942e86f1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9abdf15f1b32e84c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b934e1a657067008",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f4845ebbe7f214c",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "d250784700f123d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Create new drawing in active document": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "hide-folders:Show hidden folders": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "templater-obsidian:Templater": false,
+      "wikipedia-search:Open Article": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "ebef0cb688e7b78e",
+  "lastOpenFiles": [
+    "Interests & Projects/Animal care/Toad/Toad care guide/Housing.md",
+    "Interests & Projects/Animal care/Toad/Toad care guide/Humidity.md",
+    "Interests & Projects/Animal care/Toad/Toad care guide",
+    "Interests & Projects/Animal care/Toad/Tank improvement notes.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources.md",
+    "Resources/Education/Databases.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/test.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Ecosphere care.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Making an ecosphere.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Resources.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Making an ecosphere.md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources/Ecology of the Planted Aquarium - Diana L Walstad.pdf",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources/organism-identification.pdf",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources/Common organism identification.pdf",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources/Ecology of the Planted Aquarium - Diana.pdf",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources/s.pdf",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources/fca10bd690989d998f390dcd6cd16231.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Resources",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/New folder",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Animals directory/Faucet snail (Bithynia tentaculata).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Waterthyme (Hydrilla verticillata).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Water lettuce (Pistia stratiotes).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Red root floaters (Phyllanthus fluitans).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Java moss (Vesicularia dubyana-Taxiphyllum barbieri).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Indian toothcup (Rotala indica).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Hornwort (Ceratophyllum demersum).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Eelweed (Vallisneria spriralis).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Eared watermoss (Salvinia auriculata).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Duckweed (Lemnoideae sp).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Diatoms (Bacillariophyceae sp).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Crystalwort (Riccia fluitans).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Brazilian waterweed (Egeria densa).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/American shoreweed (Littorella uniflora).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Plants directory/Algae (Algae sp).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Organisms/Animals directory/Water scavenger beetle (Berosus spinosus).md",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Website/Basics/_attachments/016e0ae89392a9982a82462942bb9547.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/f3e7a0d79c0b1d84b13a0f3661531939.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/dae2cd98e62702d18ac2b84131591c4b.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/b9e65aa517a43f4175199b713c530f7a.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/a941dfdb1ff633cc52ec884e2909d611.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/9f3bbae5d2695a0eca78b3a9a28aec9b.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/8507e26169d0c6008a098a898496eea7.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/84bfc0888a4cf39de9e0bb196cfbfc4b.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments/6aafd0282ec326cc0c11c570cf894c80.png",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Plants directory/_attachments",
+    "Interests & Projects/Biology/Ecospheres/Ecosphere guide/Offline version/Organisms/Animals directory/_attachments",
+    "University/Revision/Archive/Microbial and plant diversity exam/Microbial and plant diversity exam.canvas",
+    "University/Revision/Archive/Microbial and plant diversity exam/Revision.canvas",
+    "University/Revision/BR17120 Linkage, Recombination and Gene Expression exam.canvas",
+    "University/Assignments/Archive/Cellular biology poster/Poster plan.canvas",
+    "Revision/BR17120 Linkage, Recombination and Gene Expression exam.canvas",
+    "Untitled.canvas"
+  ]
+}

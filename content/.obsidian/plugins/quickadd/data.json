@@ -1,0 +1,112 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "test",
+      "id": "08690672-6eed-40c7-b239-b93e3a29c74d",
+      "commands": [
+        {
+          "name": "Copy file path",
+          "type": "Obsidian",
+          "id": "3a1e32be-6a80-4d42-bd36-37142006f65f",
+          "commandId": "workspace:copy-path"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "PDF folder note",
+      "id": "9ce161be-cb45-40f7-9216-7058c4f16fd7",
+      "commands": [
+        {
+          "name": "Folder notes: Create folder note with a new folder for the active note in the current folder",
+          "type": "Obsidian",
+          "id": "9eff3590-5e04-47aa-9068-209c92fc17fa",
+          "commandId": "folder-notes:create-folder-note"
+        },
+        {
+          "name": "PDF++: Create new note for auto-focus or auto-paste",
+          "type": "Obsidian",
+          "id": "a6be410b-1d20-4abd-8b53-b829884345b1",
+          "commandId": "pdf-plus:create-new-note"
+        },
+        {
+          "name": "Rename file",
+          "type": "Obsidian",
+          "id": "096ed1e1-a19f-4317-a433-76b1ec3c4c48",
+          "commandId": "workspace:edit-file-title"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "test2",
+      "id": "3ef1f3f7-5022-4892-804b-d6becbacf670",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "test4",
+      "id": "c7503ad0-7ce6-4d1b-aff9-06caa26b5a7c",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Miscellaneous/Data/Templates",
+  "announceUpdates": true,
+  "version": "1.8.1",
+  "disableOnlineFeatures": false,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

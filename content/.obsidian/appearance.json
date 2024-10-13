@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "Canvas center",
+    "ITS - Images Adjustments"
+  ],
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "system",
+  "cssTheme": "Royal Velvet",
+  "translucency": true,
+  "nativeMenus": false
+}
