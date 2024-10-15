@@ -1,3 +1,3 @@
-![center|sban](f3e7a0d79c0b1d84b13a0f3661531939.png)
+![fill|16:9](f3e7a0d79c0b1d84b13a0f3661531939.png)
 
-This plant has a particularly high rate of photosynthesis, coupled with its fast growth rate and tolerance for low lighting conditions it is objectively one of best plants which can be used for ecospheres. The plant can be consumed by some species of mollusk such as Wandering snails however this seems to be mainly exclusive to new growth. This plant also seems to be resistant to algal blooms.
+This is in my opinion the best plant you could possibly use in an ecosphere, it has a particularly high rate of photosynthesis, coupled with its fast growth rate once established and tolerance for low lighting conditions it is objectively superior to most other plants at keeping the ecosystem stable. This plant can also be easily consumed by most species of mollusc providing a steady food supply while growing fast enough to not be completely eaten away. This plant also seems to be resistant to algal blooms, due to the fact that it can compete with algae's fast nutrient uptake.

@@ -1,0 +1,33 @@
+:is(img, .internal-embed)[alt*="16:9"],
+:is(img, .internal-embed)[alt~="16:9"],
+.internal-embed[src*="#16:9"] img {
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+}
+
+:is(img, .internal-embed)[alt*="1:1"],
+:is(img, .internal-embed)[alt~="1:1"],
+.internal-embed[src*="#1:1"] img {
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+}
+
+:is(img, .internal-embed)[alt*="4:3"],
+:is(img, .internal-embed)[alt~="4:3"],
+.internal-embed[src*="#4:3"] img {
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+}
+
+:is(img, .internal-embed)[alt*="3:2"],
+:is(img, .internal-embed)[alt~="3:2"],
+.internal-embed[src*="#3:2"] img {
+  object-fit: cover;
+  aspect-ratio: 3 / 2;
+}
+
+:is(img, .internal-embed)[alt*="fill"],
+:is(img, .internal-embed)[alt~="fill"],
+.internal-embed[src*="#fill"] img {
+  object-fit: cover;
+  width: 100%;

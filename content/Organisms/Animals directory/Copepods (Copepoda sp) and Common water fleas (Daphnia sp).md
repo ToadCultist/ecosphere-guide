@@ -1,3 +1,3 @@
-![center|sban](efaff416f8f91eaee0869229d141cb9b.png)
+![fill|16:9](efaff416f8f91eaee0869229d141cb9b.png)
 
 Copepods and daphnia are essential for any ecosphere. You can often see these darting around near the glass. They feed on detritus, algae and unicellular organisms. They are fascinating organisms to watch and they are the main food source of hydra (only copepods). If your ecosphere does not contain these (which is unlikely because they are found in most freshwater), you should definitely go find some. The only difference between the two species is that daphnia is a filter feeder. Apart from this they are almost identical in function. (The first image is a daphnia and the second is the copepod).

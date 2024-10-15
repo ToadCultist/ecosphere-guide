@@ -1,3 +1,3 @@
-![center|sban](55eb2c09605c4c16e5f57533932375ca.png)
+![fill|16:9](55eb2c09605c4c16e5f57533932375ca.png)
 
-River limpets are small molluscs found in Western Europe. They are great for diversity in an ecosphere and consume diatoms.They are effective at keeping the glass of your ecosphere clean and are very low impact even when there’s a population boom. It is essentially a bonus to have this in your ecosphere. They can be usually found on rocks in most rivers.
+River limpets are small molluscs found in Western Europe. They are great for diversity in an ecosphere and consume diatoms. They are effective at keeping the glass of your ecosphere clean and are very low impact even when there’s a population boom. It is essentially a bonus to have this in your ecosphere. They can be usually found on rocks in most rivers.

@@ -1,3 +1,3 @@
-![center|sban](175929dd5e544ed1484405bcabb99827.png)
+![fill|16:9](175929dd5e544ed1484405bcabb99827.png)
 
 These should be removed immediately as they are usualy predatory. These larvae are for various  types of flies (for example alderfly nymphs, caddisfly larvae, stonefly nymphs, mayfly nymphs, damselfly nymphs, dragonfly nymphs and others depending on your location) and also diving beetles. As a rule of thumb, anything that has six legs, a long tail and decent sized jaws should be taken out.

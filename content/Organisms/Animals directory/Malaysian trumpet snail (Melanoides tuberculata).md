@@ -1,3 +1,3 @@
-![center|sban](5f124ace2bab77b05f42dcbcd6772181.png)
+![fill|16:9](5f124ace2bab77b05f42dcbcd6772181.png)
 
-You will not find these snails naturally (unless you live in Malaysia). I have found that these common aquarium snails do very well in ecospheres. They are often found in ecospheres as a result of hitchhiking on plants. They burrow in the substrate, aerating it. I think that they are really pretty and make a fine addition to an ecosphere. I have been told that their population can go out of control in an aquarium but I have not experienced this in an ecosphere, so take that in mind if you plan on using these.
+You will not find these snails naturally (unless you live in Malaysia). I have found that these common aquarium snails do very well in ecospheres. They are often found in ecospheres as a result of hitchhiking on plants. They burrow in the substrate, aerating it which makes them a fine addition to any ecosphere. I have been told that their population can go out of control in an aquarium but I have not experienced this in an ecosphere, so take that in mind if you plan on using these.

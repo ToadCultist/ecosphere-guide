@@ -1,3 +1,3 @@
-![center|sban](34618d4f2529d53641ef82c3143d2bfd.png)
+![fill|16:9](34618d4f2529d53641ef82c3143d2bfd.png)
 
 I would never usually suggest ramshorn snails but planorbis planorbis (also known as the dwarf flat ramshorn snail) is an exception. They are small and hardy, however they can be outcompeted by other species of molluscs, so do not expect a completely certain success rate with mixing. They are great for grazing and will clean off biofilm and reproduce frequently. This species can be found in duckweed, on submerged wood in ponds, and in the substrate. I would add these snails for the added biodiversity they provide.

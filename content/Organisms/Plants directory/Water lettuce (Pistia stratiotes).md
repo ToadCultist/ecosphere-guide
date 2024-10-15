@@ -1,4 +1,4 @@
-![center|sban](dae2cd98e62702d18ac2b84131591c4b.png)
+![fill|16:9](dae2cd98e62702d18ac2b84131591c4b.png)
 
 This plant is similar to duckweed but supersized. If you want to use this plant, you will have to make a larger air gap at the top of your ecosphere. I have known people who have had great success with this plant but have not used it myself. Like duckweed, this plant is great at filtering out chemicals in the water.
 

@@ -1,3 +1,3 @@
-![center|sban](7f396be7121206626c06f52e6f7691d2.png)
+![fill|16:9](7f396be7121206626c06f52e6f7691d2.png)
 
 Never add these to your ecosphere! most species of leech living in ponds and rivers will hunt snails to extinction in an ecosphere. They can be told apart from flatworms because they should have a sucker at the end of their body and should walk by pulling it to the top of their body and moving their body forward from that point. If you find these in your ecosphere remove them immediately. There are some species that do not kill snails but I would not recommend these either as they contribute nothing ecologically and will eventually die.

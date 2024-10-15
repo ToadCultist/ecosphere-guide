@@ -1,6 +1,7 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
+    "aspectratio",
     "Canvas center",
     "ITS - Images Adjustments"
   ],

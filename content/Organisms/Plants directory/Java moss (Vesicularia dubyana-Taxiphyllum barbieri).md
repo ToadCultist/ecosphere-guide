@@ -1,3 +1,3 @@
-![center|sban](4bbe27fdb09c3995ae5e7d61dca4154e.png)
+![fill|16:9](4bbe27fdb09c3995ae5e7d61dca4154e.png)
 
 Java moss is by far the best moss you can add to an ecosphere. In ecospheres, it tends to grow quite tall and spindly and given enough time, it can overtake an ecosphere. However, it is an easily digestible plant and therefore makes a great food source for most organisms and should be kept under control quite easily. I would use this plant if you have wandering snails or amphipods in your ecosphere, as they will stop it outcompeting other plants. I personally use this plant often in my own ecospheres. Do be aware that this plant grows quite slowly.

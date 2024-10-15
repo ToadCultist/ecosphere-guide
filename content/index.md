@@ -1,16 +1,16 @@
 ---
 title: Home
 ---
-![center|banner](5ae6a00e0a0b57f02c1f59c67024de70.jpg)
+![16:9|fill|p+ct](415e06aaedfeadd7dca3adbead60901f_MD5.jpg)
 
-Welcome to the enclosed ecology knowledge base!  
-This project is aimed at documenting everything I know about ecospheres through my own experiments, research and knowledge of others. I hope you find this place useful!  
+Welcome to my ecosphere knowledge base!  
+This project is aimed at documenting everything I know about ecospheres through my own experiments, research and knowledge of other hobbyists. I hope you find this place useful!  
 
-If you are interested in contributing to this project or just have an interest in ecospheres in general, [join our discord server!](https://discord.gg/VUkMhjbcDV)
+When I was starting out in the hobby I was annoyed to find that there really wasn't much info out there on how to create a successful ecosphere, most of what I learnt was from continuous trial and error over the course of a couple years. At some point I started documenting my findings which has slowly evolved into this guide, aimed at helping newcomers get started with this relatively niche hobby.
 
-Throughout my time studying ecospheres, I have always been frustrated how hard it is to find good information. In the ecosphere hobby, the main way people learn what works and doesn’t work is through continuous trial and error, which can be very time consuming. This is why I have decided to make this website. Here you will find nearly everything you need to know to construct an ecosphere!
+If you are interested in contributing to this project or just have an interest in ecospheres in general, [consider joining my discord server!](https://discord.gg/VUkMhjbcDV)
 
-==Please note that a lot of the information on here is based on my personal experiences with ecospheres, as well as the experiences of other ecosphere enthusiasts I know. Also, please note that some of this information is from other sources (link provided at the end). Last of all, if you find any factual mistakes or believe you deserve to be credited contact me via Discord (@toadcultist).==
+==Please note that a lot of the information on here is based on my personal experiences with ecospheres, as well as the experiences of other ecosphere enthusiasts I know. Also, it is worth me mentioning that small amounts of my information is from other sources however I am crap at referencing... Last of all, if you find any factual mistakes or believe you deserve to be credited contact me via Discord (@toadcultist).==
 
 ## Pages to visit:
 
