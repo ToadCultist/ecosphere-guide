@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisms/Animals directory/Water scavenger beetle (Berosus spinosus).md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisms/Animals directory/Water scavenger beetle (Berosus spinosus).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisms/Animals directory/Water scavenger beetle (Berosus spinosus).md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisms/Animals directory/Water scavenger beetle (Berosus spinosus).md"
+                "file": "index.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "ebef0cb688e7b78e",
   "lastOpenFiles": [
+    "Organisms/Animals directory/Water scavenger beetle (Berosus spinosus).md",
     "Organisms/Animals directory/Water mites (Hydrachnidia sp).md",
     "Organisms/Animals directory/Water hoglouse (Asellus aquaticus).md",
     "Organisms/Animals directory/Vorticella.md",
@@ -204,7 +205,6 @@
     "Organisms/Plants directory/Water lettuce (Pistia stratiotes).md",
     "Organisms/Plants directory/Red root floaters (Phyllanthus fluitans).md",
     "Organisms/Plants.md",
-    "Organisms/Plants directory/Monosolenium tenerum.md",
     "Organisms/Plants directory/_attachments/e2d46d23b77d2e4b758361f6e021ce53_MD5.jpg",
     "_attachments/415e06aaedfeadd7dca3adbead60901f_MD5.jpg",
     "_attachments/a6fe62f9cd1eef6067ade6fe9fcad744_MD5.bmp",
